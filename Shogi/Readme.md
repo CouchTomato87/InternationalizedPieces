@@ -1,5 +1,7 @@
 # Internationalized Shogi Symbols
 
+![Wooden Set](https://github.com/CouchTomato87/InternationalizedPieces/blob/master/pngs/ShogiGUIScreenshotWood3.png?raw=true)
+
 ## Background
 This piece set is designed to create a feasible standard for internationalized shogi pieces. Many of the sets designed right now are more *westernized* shogi pieces, based off western chess. While accessible to many chess players, a good portion of shogi players do not like the westernization part, often because it makes shogi look like “just another variation of chess.”
 ## Goal
@@ -16,7 +18,11 @@ Like chess, cheaper sets are available in **plastic**, while more expensive ones
 ### King	
 王將 *ōshō*
 
+![White Kings](https://github.com/CouchTomato87/InternationalizedPieces/blob/master/pngs/WhiteKings.png?raw=true)
+
 玉將 *gyokushō*
+
+![Black Kings](https://github.com/CouchTomato87/InternationalizedPieces/blob/master/pngs/BlackKings.png?raw=true)
 
 (“King general”, “Jeweled general”)
 
@@ -34,6 +40,8 @@ Like chess, cheaper sets are available in **plastic**, while more expensive ones
 
 (“Flying chariot”)	
 
+![Rooks](https://github.com/CouchTomato87/InternationalizedPieces/blob/master/pngs/Rooks.png?raw=true)
+
 * Chariot design is based off the Japanese name
 * For chess players, if the wheel is removed, this still resembles the “tower” shape of the rook.
 * Also, a historical fact: the word “rook” is based on the Persian word for chariot.
@@ -46,6 +54,8 @@ Like chess, cheaper sets are available in **plastic**, while more expensive ones
 
 (“Dragon king”)
 
+![Dragons](https://github.com/CouchTomato87/InternationalizedPieces/blob/master/pngs/Dragons.png?raw=true)
+
 * Design is a slightly simplified version of Hidetchi’s original dragon, an eastern dragon.
 * *Design considerations*: Any kind of snake-like dragon can act as a “dragon king.” 
 
@@ -54,6 +64,8 @@ Like chess, cheaper sets are available in **plastic**, while more expensive ones
 
 (“Angle goer”)
 
+![Bishops](https://github.com/CouchTomato87/InternationalizedPieces/blob/master/pngs/Bishops.png?raw=true)
+
 * Chess bishop’s miter hat reflects Catholicism, which does not fit the theme of shogi.
 * Instead, the Japanese *kanmuri* hat, typically worn by Japanese officials, is used to convey the authority of a “bishop”.
 * *Design considerations*: The bishop faces right so that the two opposing bishops are facing off.
@@ -61,7 +73,9 @@ Like chess, cheaper sets are available in **plastic**, while more expensive ones
 ### Dragon Horse (“Horse”)	
 龍馬 *ryūma*
 
-(“Dragon horse”)	
+(“Dragon horse”)
+
+![Horses](https://github.com/CouchTomato87/InternationalizedPieces/blob/master/pngs/Horses.png?raw=true)
 
 * The design is a combination of the Chinese *longma* (龍馬) and the Chinese/Japanese *qilin/kirin* (麒麟).
 * The piece must be dragon-like so that when people abbreviate as “horse” they never forget that it is just shorthand for dragon horse. Otherwise, it is confusing with the horse-shaped knight.
@@ -70,7 +84,9 @@ Like chess, cheaper sets are available in **plastic**, while more expensive ones
 ### Gold General (“Gold”)	 
 金將 *kinshō*
 
-(“Gold general”)	
+(“Gold general”)
+
+![Golds](https://github.com/CouchTomato87/InternationalizedPieces/blob/master/pngs/Golds.png?raw=true)
 
 * The protrusions of the samurai helmet (including the gold circle) reflect the movement.
 * The gold circle pays tribute to older designs that symbolized the gold general with a circle (alchemical symbol for gold).
@@ -81,7 +97,11 @@ Like chess, cheaper sets are available in **plastic**, while more expensive ones
 銀將 *ginshō*
 
  (“Silver general”)	
- 
+
+![Silvers](https://github.com/CouchTomato87/InternationalizedPieces/blob/master/pngs/Silvers.png?raw=true)
+
+![PSilvers](https://github.com/CouchTomato87/InternationalizedPieces/blob/master/pngs/PSilvers.png?raw=true)
+
 * See Gold General regarding movement and plastic piece color.
 * The silver moon pays tribute to older designs that symbolized the silver general with a crescent moon (alchemical symbol for silver).
 * Promoted silver gains the gold circle on top. This is the only distinction if only black and white is used.
@@ -91,6 +111,10 @@ Like chess, cheaper sets are available in **plastic**, while more expensive ones
 
  (“Cassia/Katsura horse”)	
  
+![Knights](https://github.com/CouchTomato87/InternationalizedPieces/blob/master/pngs/Knights.png?raw=true)
+
+![PKnights](https://github.com/CouchTomato87/InternationalizedPieces/blob/master/pngs/PKnights.png?raw=true)
+ 
 * Design based off Hidetchi’s knight, which itself is mostly unchanged from the chess piece. For obvious reasons, there is no need to change this piece.
 * Promoted knight gains reins. This is the only distinction if only black and white is used.
 
@@ -99,15 +123,23 @@ Like chess, cheaper sets are available in **plastic**, while more expensive ones
 
  (“Incense chariot”)
  
+![Lances](https://github.com/CouchTomato87/InternationalizedPieces/blob/master/pngs/Lances.png?raw=true)
+
+![PLances](https://github.com/CouchTomato87/InternationalizedPieces/blob/master/pngs/PLances.png?raw=true)
+ 
 * Design represents the head of a *jumonji yari* (type of Japanese spear).
 * Promoted lance gains a more ornate design (and also gold-plated metal in plastic version). This is the only distinction if only black and white is used.
 
 ### Pawn
-+ Promoted pawn (“Tokin”)	 
++ Promoted pawn (“Tokin”)
 
 歩兵 *fuhyō*  (“Foot soldier”)
 
+![Pawns](https://github.com/CouchTomato87/InternationalizedPieces/blob/master/pngs/Rooks.png?raw=true)
+
 と金 *tokin* (“Reached gold”)
+
+![Tokins](https://github.com/CouchTomato87/InternationalizedPieces/blob/master/pngs/Tokins.png?raw=true)
 
 * Unpromoted design unchanged from Hidetchi’s pawn, which is perfect. The pointed hat reflects movement as well as the pointed hats certain soldiers could wear.
 * Promoted pawn steals the golden ornament from the gold general. Good for him!
