@@ -1,5 +1,5 @@
 # Internationalized Shogi Symbols
-
+![Plastic Set](https://github.com/CouchTomato87/InternationalizedPieces/blob/master/pngs/ShogiGUIScreenshotPlastic6.png?raw=true)
 ![Wooden Set](https://github.com/CouchTomato87/InternationalizedPieces/blob/master/pngs/ShogiGUIScreenshotWood3.png?raw=true)
 
 ## Background
