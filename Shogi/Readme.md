@@ -135,7 +135,7 @@ Like chess, cheaper sets are available in **plastic**, while more expensive ones
 
 歩兵 *fuhyō*  (“Foot soldier”)
 
-![Pawns](https://github.com/CouchTomato87/InternationalizedPieces/blob/master/pngs/Rooks.png?raw=true)
+![Pawns](https://github.com/CouchTomato87/InternationalizedPieces/blob/master/pngs/Pawns.png?raw=true)
 
 と金 *tokin* (“Reached gold”)
 
