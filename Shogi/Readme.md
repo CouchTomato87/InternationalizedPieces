@@ -2,6 +2,9 @@
 ![Plastic Set](https://github.com/CouchTomato87/InternationalizedPieces/blob/master/pngs/ShogiGUIScreenshotPlastic6.png?raw=true)
 ![Wooden Set](https://github.com/CouchTomato87/InternationalizedPieces/blob/master/pngs/ShogiGUIScreenshotWood3.png?raw=true)
 
+
+# Note that the pieces are not up to date here. Please contact me for updated pieces!
+
 ## Background
 This piece set is designed to create a feasible standard for internationalized shogi pieces. Many of the sets designed right now are more *westernized* shogi pieces, based off western chess. While accessible to many chess players, a good portion of shogi players do not like the westernization part, often because it makes shogi look like “just another variation of chess.”
 ## Goal
