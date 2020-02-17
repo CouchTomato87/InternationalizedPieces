@@ -5,4 +5,4 @@ This repository contains pieces that I've designed for the East Asian chess game
 
 All files are open source. Just please credit me (Couch Tomato)!
 
-# Note that the pieces are not up to date here. Please contact me for updated pieces!
+# Note that the pieces are not up to date here. Please contact me for updated pieces! Most up to date pieces are currently on https://github.com/gbtami/pychess-variants
