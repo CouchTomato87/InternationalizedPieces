@@ -1,6 +1,6 @@
 # Internationalized Shogi Symbols
-![Plastic Set](https://github.com/CouchTomato87/InternationalizedPieces/blob/master/pngs/ShogiGUIScreenshotPlastic6.png?raw=true)
-![Wooden Set](https://github.com/CouchTomato87/InternationalizedPieces/blob/master/pngs/ShogiGUIScreenshotWood3.png?raw=true)
+![Plastic Set](https://github.com/CouchTomato87/InternationalizedPieces/blob/master/pngs/IntlPlastic.png?raw=true)
+![Wooden Set](https://github.com/CouchTomato87/InternationalizedPieces/blob/master/pngs/IntlWood.png?raw=true)
 
 
 # Note that the pieces are not up to date here. Please contact me for updated pieces! They're also availalbe at https://github.com/gbtami/pychess-variants
@@ -34,8 +34,8 @@ Like chess, cheaper sets are available in **plastic**, while more expensive ones
   * Of all the kanji, easiest to learn and recognize
   * The “cross” in the middle may also help chess players think of the chess king, which also has a cross.
 * Jeweled distinction (玉) removed to keep things simple
-* Black and white bars on bottom give actual meaning to “black” and “white” (*gote* and *sente*)
-  * In wooden sets or black and white sets, only a black bar is used for the black player since white is not available.
+* In plastic set, the pieces themselves are black and white to signify the side. The black king is colored gold so that it is not confusing as to whether it's the kanji color or the piece color that represents the side.
+* In wooden set, Black and white bars on bottom give actual meaning to “black” and “white” (*gote* and *sente*)
 * *Design considerations*: Any font can work. However, a simple font is preferred for plastic style pieces, while more stylish calligraphy can be used in wooden pieces.
 
 ### Rook	 
@@ -59,7 +59,7 @@ Like chess, cheaper sets are available in **plastic**, while more expensive ones
 
 ![Dragons](https://github.com/CouchTomato87/InternationalizedPieces/blob/master/pngs/Dragons.png?raw=true)
 
-* Design is a slightly simplified version of Hidetchi’s original dragon, an eastern dragon.
+* Design is a slightly modified version of Hidetchi’s original dragon, an eastern dragon.
 * *Design considerations*: Any kind of snake-like dragon can act as a “dragon king.” 
 
 ### Bishop	 
@@ -107,7 +107,7 @@ Like chess, cheaper sets are available in **plastic**, while more expensive ones
 
 * See Gold General regarding movement and plastic piece color.
 * The silver moon pays tribute to older designs that symbolized the silver general with a crescent moon (alchemical symbol for silver).
-* Promoted silver gains the gold circle on top. This is the only distinction if only black and white is used.
+* Promoted silver gains the gold circle on top.
 
 ### Knight	 
 桂馬 *keima*
@@ -130,8 +130,9 @@ Like chess, cheaper sets are available in **plastic**, while more expensive ones
 
 ![PLances](https://github.com/CouchTomato87/InternationalizedPieces/blob/master/pngs/PLances.png?raw=true)
  
-* Design represents the head of a *jumonji yari* (type of Japanese spear).
-* Promoted lance gains a more ornate design (and also gold-plated metal in plastic version). This is the only distinction if only black and white is used.
+* Design represents the a lance/spear on top of a wheel, which represents a chariot. (for incense chariot)
+* Note that the images here are not updated. Look at the graphics at the top for now for the updated version.
+* Promoted lance maintains the spear and wheel motif, but has multiple spears representing the new directions of attack.
 
 ### Pawn
 + Promoted pawn (“Tokin”)
