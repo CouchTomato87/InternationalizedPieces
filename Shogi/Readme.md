@@ -3,7 +3,7 @@
 ![Wooden Set](https://github.com/CouchTomato87/InternationalizedPieces/blob/master/pngs/IntlWood.png?raw=true)
 
 
-# Note that the pieces are not up to date here. Please contact me for updated pieces! They're also availalbe at https://github.com/gbtami/pychess-variants
+# Note that the pieces are not up to date here in this repository. Please contact me for updated pieces! They're also available at https://github.com/gbtami/pychess-variants
 
 ## Background
 This piece set is designed to create a feasible standard for internationalized shogi pieces. Many of the sets designed right now are more *westernized* shogi pieces, based off western chess. While accessible to many chess players, a good portion of shogi players do not like the westernization part, often because it makes shogi look like “just another variation of chess.”
